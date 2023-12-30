@@ -6,7 +6,7 @@ baseURL = "https://l480.github.io"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Nico's Blog"
+title = "L480"
 author = "Jane Doe"
 copyright = "Copyright © 2020, Jane Doe."
 languageCode = "en-US"
