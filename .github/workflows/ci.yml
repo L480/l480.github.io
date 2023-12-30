@@ -23,7 +23,7 @@ jobs:
         hugo-version: latest
 
     - name: Build local ./exampleSite
-      run: hugo --minify --gc --destination ./public --source ./site --themesDir ./themes --baseURL https://l480.github.io
+      run: hugo --minify --gc --destination ../public --source ./site --themesDir ../../themes --baseURL https://l480.github.io/
     
     - name: Upload Artifact
       uses: actions/upload-artifact@v4
