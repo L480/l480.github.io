@@ -17,14 +17,14 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-        submodules: 'true'
+        submodules: 'recursive'
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.6.0
       with:
         hugo-version: latest
 
-    - name: Build local ./exampleSite
+    - name: Build local ./site
       run: hugo --minify --gc --destination ../public --source ./site --themesDir ../../themes --baseURL https://l480.github.io/
     
     - name: Upload Artifact
