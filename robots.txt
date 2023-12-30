@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://l480.github.io/sitemap.xml
