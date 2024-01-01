@@ -1,4 +1,4 @@
-# Hi there, I'm Nico Schiering 👋
+# Hi there, I'm Nico 👋
 
 Working as a Cloud Solution Architect at&nbsp;&nbsp;<img style="display: inline; height: 1em; width: auto;" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="logo" /> Microsoft.
 

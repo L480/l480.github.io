@@ -53,7 +53,7 @@ The name now looks a bit like a Kubernetes pod name.
 
 So why don't we just use random strings only? The only reason for a bit of human-readable information is, to better identity resources in dropdown menus and other parts of UIs, such as in the Azure Portal, Azure DevOps, Datadog etc.
 
-![Random String Naming Convention on Azure](/azure-naming-convention1.png)
+![Random String Naming Convention on Azure](/images/azure-naming-convention1.png)
 
 The above resources are entirely deployed through Terraform, which makes the generation of random strings even easier, thanks to the built-in Terraform [uuidv5](https://www.terraform.io/docs/configuration/functions/uuidv5.html), [sha256](https://www.terraform.io/docs/configuration/functions/sha256.html), and [substr](https://www.terraform.io/docs/configuration/functions/substr.html) functions.
 
