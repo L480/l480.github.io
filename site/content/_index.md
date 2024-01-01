@@ -26,4 +26,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/nico-schiering/)!
 - [tildas-tonies](https://github.com/L480/tildas-tonies) - 🎵 Sources of [tildas-tonies.de](https://tildas-tonies.de/)
 - [rewe-price-data](https://github.com/L480/rewe-price-data) - 🏪 Daily updated prices of all items from the German supermarket chain REWE as CSV (including EAN, grammage, product image etc.)
 - [flatex-import](https://github.com/L480/flatex-import) - 📒 flatex deposit statement import for Sage Business Cloud Accounting
-- [GitHub Gists](https://gist.github.com/L480)
+- [My GitHub Gists](https://gist.github.com/L480)
