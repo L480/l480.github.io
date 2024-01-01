@@ -12,7 +12,7 @@ Today I want to show you, how you can use Cloudflare as your DynDNS provider for
 
 Create a [Cloudflare API token](https://dash.cloudflare.com/profile/api-tokens) with **read permissions** for the scope `Zone.Zone` and **edit permissions** for the scope `Zone.DNS`.
 
-![Cloudflare Custom API Token](../../static/images/cloudflare-dyndns1.png)
+![Cloudflare Custom API Token](/cloudflare-dyndns1.png)
 
 ## Step 2: Set up DynDNS on your FRITZ!Box
 

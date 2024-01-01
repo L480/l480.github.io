@@ -27,11 +27,11 @@ Vault needs a service principal to be able to create further dynamic service pri
 
 In my case, I want to let Vault create dynamic service principals with permissions on the entire subscription. Therefore I need to assign the Vault service principal the Owner role on my subscription.
 
-![Vault service principal with Owner role](../../static/images/dynamic-azure-service-principals1.png)
+![Vault service principal with Owner role](/dynamic-azure-service-principals1.png)
 
 The Vault service principal is now able to do role assignments on the entire subscription. However, it's still not able to create and manage service principals. Therefore you need to grant the below Microsoft Graph API and Azure Active Directory Graph permissions to the Vault service principal.
 
-![Vault service principal API permissions](../../static/images/dynamic-azure-service-principals2.png)
+![Vault service principal API permissions](/dynamic-azure-service-principals2.png)
 
 If you want to automate this process, check out my blog post about [Granting Azure AD Admin Consent Programmatically](https://blog.nico-schiering.de/granting-azure-ad-admin-consent-programmatically/).
 
@@ -171,7 +171,7 @@ auth/userpass/login/terraform
 
 During the terraform plan you can see one of the dynamic service principals in the role assignments of the subscription. This service principal was created by Vault and will be deleted by Vault once the deployment is done or the TTL has exceeded.
 
-![Dynamic service principal created through Terraform](../../static/images/dynamic-azure-service-principals3.png)
+![Dynamic service principal created through Terraform](/dynamic-azure-service-principals3.png)
 
 ## Creating a Dynamic Service Principal through the Vault CLI
 
@@ -181,6 +181,6 @@ You can also create a dynamic service principal "manually" through the Vault CLI
 vault read azure/creds/ns-msdn-contributor
 ```
 
-![Dynamic service principal created through Vault CLI](../../static/images/dynamic-azure-service-principals4.png)
+![Dynamic service principal created through Vault CLI](/dynamic-azure-service-principals4.png)
 
 Check out the Vault documentation about [auditing](https://www.vaultproject.io/docs/audit/file), to get a full overview of which service is retrieving secrets from Vault.
