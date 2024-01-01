@@ -1,21 +1,29 @@
-# A match made in heaven
+# Hi there, I'm Nico Schiering 👋
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+Working as a Cloud Solution Architect at&nbsp;&nbsp;<img style="display: inline; height: 1em; width: auto;" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="logo" /> Microsoft.
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+<p>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="30" height="30" />
+    
+</p>
 
-[Go to the original bear blog](https://bearblog.dev/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nico-schiering/)!
 
 ---
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
+**My Projects**
 
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+- [cloudflare-dyndns](https://github.com/L480/cloudflare-dyndns) - ☁️ Cloudflare DynDNS solution for AVM FRITZ!Box
+- [tesla-smart-sentry](https://github.com/L480/tesla-smart-sentry) - 🎥 Enables Tesla Sentry Mode via Zigbee motion sensors
+- [tildas-tonies](https://github.com/L480/tildas-tonies) - 🎵 Sources of [tildas-tonies.de](https://tildas-tonies.de/)
+- [rewe-price-data](https://github.com/L480/rewe-price-data) - 🏪 Daily updated prices of all items from the German supermarket chain REWE as CSV (including EAN, grammage, product image etc.)
+- [flatex-import](https://github.com/L480/flatex-import) - 📒 flatex deposit statement import for Sage Business Cloud Accounting
+- [GitHub Gists](https://gist.github.com/L480)
