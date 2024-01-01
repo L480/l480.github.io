@@ -33,8 +33,6 @@ The Vault service principal is now able to do role assignments on the entire sub
 
 ![Vault service principal API permissions](/images/dynamic-azure-service-principals2.png)
 
-If you want to automate this process, check out my blog post about [Granting Azure AD Admin Consent Programmatically](https://blog.nico-schiering.de/granting-azure-ad-admin-consent-programmatically/).
-
 ## Configuring Vault
 
 Now you need to enable the Azure Secret Engine in Vault. Therefore execute the bellow command. Make sure to replace **subscription\_id** and **tenant\_id** with your information and **client\_id** and **client\_secret** with those of the Vault service principal.
