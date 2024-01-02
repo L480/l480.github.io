@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://l480.github.io/sitemap.xml
+Sitemap: https://nicoo.org/sitemap.xml
