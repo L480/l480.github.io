@@ -34,7 +34,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/nico-schiering/)!
 
 Buy or sign-up through one of the below referral links to buy me a coffee ☕
 
-- [Hetzner Cloud](https://hetzner.cloud/?ref=TAZaBLnvHG0A) (free €20 cloud credit)
+- [Hetzner Cloud](https://hetzner.cloud/?ref=TAZaBLnvHG0A) (€⁠20 in cloud credits)
 - [Tesla](https://ts.la/nico752835) (3 Months Full Self-Driving Capability)
 - [Peloton](https://account.onepeloton.de/referral/2964206e649048ff8ba2594f94d73abe?cfuList=bike&guestPassCode=MzVjYmYwMmFmYjFmNDBkM2EwYmQwNTliZDlkMTdmMjN8ZjgzMjE1YWU3MTA3NDU0YWI5Y2FiOTk3ZWM2NGM0YzE=) (€100 discount)
 - [American Express](https://americanexpress.com/de-de/referral/nICOS8Y21) (20,000 American Express Membership Rewards)
