@@ -75,6 +75,9 @@ resource "azurerm_resource_group" "rg" {
 }
 ```
 
+> **UPDATE:** Instead of using the *displayName* tag, you could also use the *[hidden-title](https://learn.microsoft.com/en-us/community/content/hidden-tags-azure#hidden-title)* tag, which shows the display name in parentheses after each resource name in the portal and is also indexed in the Azure Portals search function.
+> ![hidden-title tag](/images/azure-naming-convention2.png)
+
 ## FAQ
 
 ### Why don't you just use the naming convention from the [Microsoft Cloud Adoption Framework (CAF)](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging)?
