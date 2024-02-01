@@ -75,8 +75,8 @@ resource "azurerm_resource_group" "rg" {
 }
 ```
 
-> **UPDATE:** Instead of using the *displayName* tag, you could also use the *[hidden-title](https://learn.microsoft.com/en-us/community/content/hidden-tags-azure#hidden-title)* tag, which shows the display name in parentheses after each resource name in the portal and is also indexed in the Azure Portals search function.
-> ![hidden-title tag](/images/azure-naming-convention2.png)
+🆕 **UPDATE**: Instead of using the *displayName* tag, you could also use the *[hidden-title](https://learn.microsoft.com/en-us/community/content/hidden-tags-azure#hidden-title)* tag, which shows the display name in parentheses after each resource name in the portal and is also indexed in the Azure Portals search function.
+![hidden-title tag](/images/azure-naming-convention2.png)
 
 ## FAQ
 
