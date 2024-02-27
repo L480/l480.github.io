@@ -22,9 +22,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/nico-schiering/)!
 **My Projects**
 
 - [cloudflare-dyndns](https://github.com/L480/cloudflare-dyndns) - ☁️ Cloudflare DynDNS solution for AVM FRITZ!Box
+- [cloudflare-log-analytics](https://github.com/L480/cloudflare-log-analytics) - 📃 Ingests Cloudflare Logs to Azure Log Analytics Workspaces
+- [rewe-price-data](https://github.com/L480/rewe-price-data) - 🏪 Daily updated prices of all items from the German supermarket chain REWE as CSV (including EAN, grammage, product image etc.)
 - [tesla-smart-sentry](https://github.com/L480/tesla-smart-sentry) - 🎥 Enables Tesla Sentry Mode via Zigbee motion sensors
 - [tildas-tonies](https://github.com/L480/tildas-tonies) - 🎵 Sources of [tildas-tonies.de](https://tildas-tonies.de/)
-- [rewe-price-data](https://github.com/L480/rewe-price-data) - 🏪 Daily updated prices of all items from the German supermarket chain REWE as CSV (including EAN, grammage, product image etc.)
 - [img2bmp-proxy](https://github.com/L480/img2bmp-proxy) - 🖼️ Creates monochrome bitmaps from graphical image files using image thresholding
 - [flatex-import](https://github.com/L480/flatex-import) - 📒 flatex deposit statement import for Sage Business Cloud Accounting
 - [My GitHub Gists](https://gist.github.com/L480)
